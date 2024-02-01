@@ -6,7 +6,7 @@
   "require": {
     "php": ">=8.1",
     "neoground/charm": "^3.1",
-    "neoground/charm-blog": "^1.0"
+    "neoground/charm-blog": "^0.2"
   },
   "autoload": {
     "psr-4": {

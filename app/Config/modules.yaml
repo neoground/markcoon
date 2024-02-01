@@ -26,5 +26,6 @@ modules:
   - \Charm\Crown\Crown
   # Queue system
   - \Charm\Barbequeue\Queue
-  - Neoground\Charm\Markdown\Markdown
-  - Neoground\Charm\Blog\Blog
+  # Blog + Markdown modules
+  - \Neoground\Charm\Markdown\Markdown
+  - \Neoground\Charm\Blog\Blog

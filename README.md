@@ -2,6 +2,11 @@
 
 A flat file markdown blog system based on the Charm framework.
 
+Blog posts are stored at `data/blog/posts`.
+
+Their thumbnails are stored at `data/blog/thumbnails` and all other assets at `data/blog/assets/$slug`,
+where `$slug` should be the slug of your blog post. But you can also store them directly in the `assets` dir.
+
 ## Getting Started with this Charm-based Project
 
 Welcome to the markcoon1 built upon the powerful Charm framework! 
