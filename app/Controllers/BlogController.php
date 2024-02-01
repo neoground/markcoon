@@ -25,19 +25,19 @@ class BlogController extends Controller
     #[Route("GET", "/blog", "blog.index", "autolang")]
     public function getIndex(): View
     {
-        return C::Blog()->getFilteredPostOverview('index', '');
+        return C::Blog()->getFilteredPostList('index', '');
     }
 
     #[Route("GET", "/blog/category/{name}", "blog.category", "autolang")]
     public function getCategory($name): View
     {
-        return C::Blog()->getFilteredPostOverview('category', $name);
+        return C::Blog()->getFilteredPostList('category', $name);
     }
 
     #[Route("GET", "/blog/tag/{name}", "blog.tag", "autolang")]
     public function getTag($name): View
     {
-        return C::Blog()->getFilteredPostOverview('tag', $name);
+        return C::Blog()->getFilteredPostList('tag', $name);
     }
 
     #[Route("GET", "/blog/feed/{lang}", "blog.rss")]
