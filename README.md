@@ -47,3 +47,11 @@ For more information on setting up a charm project, see the [Charm Installation 
 
 You can learn more about the Bob CLI tool in the [Bob Documentation](https://github.com/neoground/charm-toolkit).
 
+## License
+
+This project is licensed under the Mozilla Public License 2.0 (MPL 2.0) -
+see the [LICENSE.md](LICENSE.md) file for details.
+If a copy of the MPL was not distributed with this file, You can obtain one at
+[http://mozilla.org/MPL/2.0](http://mozilla.org/MPL/2.0).
+
+Copyright (c) 2024 Neoground GmbH

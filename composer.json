@@ -1,7 +1,7 @@
 {
   "name": "neoground/markcoon",
   "description": "A flat file markdown blog system based on the Charm framework",
-  "license": "MIT",
+  "license": "MPL-2.0",
   "version": "1.0",
   "require": {
     "php": ">=8.1",
