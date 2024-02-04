@@ -1,5 +1,7 @@
 # Markcoon
 
+![A banner image of Rocky the Raccoon](https://github.com/neoground/markcoon/blob/main/data/blog/thumbnails/default_hero.jpg?raw=true)
+
 A flat file markdown blog system based on the Charm framework.
 
 Blog posts are stored at `data/blog/posts`.
@@ -52,6 +54,6 @@ You can learn more about the Bob CLI tool in the [Bob Documentation](https://git
 This project is licensed under the Mozilla Public License 2.0 (MPL 2.0) -
 see the [LICENSE.md](LICENSE.md) file for details.
 If a copy of the MPL was not distributed with this file, You can obtain one at
-[http://mozilla.org/MPL/2.0](http://mozilla.org/MPL/2.0).
+[https://mozilla.org/MPL/2.0](https://mozilla.org/MPL/2.0).
 
 Copyright (c) 2024 Neoground GmbH
